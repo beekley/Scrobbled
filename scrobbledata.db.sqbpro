@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/brett.beekley/Documents/GitHub/lastfm/scrobbledata.db"/><window><current_tab id="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="884"/><expanded_item id="0" parent="-1"/><expanded_item id="1" parent="-1"/><expanded_item id="2" parent="-1"/><expanded_item id="3" parent="-1"/></tab_structure><tab_browse><current_table name="songs"/><default_encoding codec=""/><browsetable_info data="AAAAAgAAAAgAdABlAHMAdKT8f7AAAAGkAAAAAAAAAAAAAAAAAP////8AAAAKAHMAbwBuAGcAc6U1CDAAAAGkAAAAAAAAAAAAAAAAAP////8="/></tab_browse><tab_sql><sql name="SQL 1">update songs
+set 
+	Month_str = substr(timestamp,8,4), 
+	Day = substr(timestamp,1,2),
+	Time = substr(timestamp,13)</sql><sql name="SQL 2">select artist, count(artist) c, timestamp d
+from songs
+--where Datetime(timestamp) &gt;= Datetime('2016-11-13 00:00:00')
+group by artist
+order by c desc</sql><current_tab id="0"/></tab_sql></sqlb_project>
