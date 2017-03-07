@@ -1,0 +1,142 @@
+weekNumber,date,freqArtist,count
+0,2017-03-01,Grum,7
+1,2017-02-27,Madeaux,6
+2,2017-02-14,Arty,7
+3,2017-02-12,Grum,10
+4,2017-02-04,Linkin Park,16
+5,2017-01-25,Maya Jane Coles,5
+6,2017-01-23,deadmau5,9
+7,2017-01-12,Minnesota,16
+8,2017-01-05,Ramin Djawadi,11
+9,2016-12-29,Eric Prydz,9
+10,2016-12-20,Whethan,4
+11,2016-12-15,Grum,8
+12,2016-12-08,Grum,18
+13,2016-12-01,Arty,9
+14,2016-11-22,OPIUO,3
+15,2016-11-17,Bearson,3
+16,2016-11-08,Croquet Club,16
+17,2016-11-04,Dusky,23
+18,2016-10-26,Linkin Park,14
+19,2016-10-18,Dusky,13
+20,2016-10-13,Dusky,38
+21,2016-10-04,Rezz,23
+22,2016-10-02,The Beatles,42
+23,2016-09-21,Mew,10
+24,2016-09-18,Dusky,17
+25,2016-09-08,Dusky,7
+26,2016-08-30,Tame Impala,5
+27,2016-08-25,Tame Impala,21
+28,2016-08-17,16 Bit Lolitas,9
+29,2016-08-09,Dusky,23
+30,2016-08-08,Howard Shore,17
+31,2016-08-01,Alex H,1
+32,2016-07-25,Baths,11
+33,2016-07-13,Bon Iver,1
+34,2016-07-09,Bag Raiders,11
+35,2016-07-02,Bonobo,6
+36,2016-06-21,Ambassadeurs,3
+37,2016-06-14,Baths,12
+39,2016-05-31,Ramin Djawadi,98
+40,2016-05-30,Ramin Djawadi,47
+41,2016-05-22,Essay,4
+42,2016-05-12,St. Lucia,9
+43,2016-05-04,Andrew Bayer,25
+44,2016-04-30,Skream,7
+45,2016-04-22,Skream,18
+46,2016-04-13,Odesza,6
+47,2016-04-06,Tame Impala,10
+48,2016-03-28,Bag Raiders,51
+49,2016-03-28,Linkin Park,6
+50,2016-03-16,Digitalism,23
+51,2016-03-10,Kaytranada,12
+52,2016-03-03,Kaytranada,24
+53,2016-02-25,Linkin Park,13
+54,2016-02-19,Eric Prydz,19
+55,2016-02-09,Netsky,30
+56,2016-02-04,Eric Prydz,55
+57,2016-01-30,Grum,14
+58,2016-01-23,Jon Hopkins,20
+59,2016-01-15,Mat Zo,13
+60,2016-01-05,Wes Smith,24
+61,2015-12-29,RÜFÜS,7
+62,2015-12-22,Flux Pavilion,7
+63,2015-12-15,Skream,14
+64,2015-12-14,Totally Enormous Extinct Dinosaurs,13
+65,2015-11-30,Purity Ring,54
+66,2015-11-24,Jon Hopkins,12
+67,2015-11-20,Arty,24
+68,2015-11-13,Dusky,17
+69,2015-11-04,Grimes,35
+70,2015-10-29,Gesaffelstein,31
+71,2015-10-23,Flux Pavilion,11
+72,2015-10-13,Madeaux,12
+73,2015-10-06,Pendulum,14
+74,2015-09-30,Michael Mayer,16
+75,2015-09-22,West Klintwood,5
+76,2015-09-18,Empire of the Sun,20
+77,2015-09-09,The Thrillseekers,13
+78,2015-09-02,Super8 & Tab,21
+79,2015-08-27,Spor,7
+80,2015-08-19,Spor,9
+81,2015-08-12,MSTRKRFT,8
+82,2015-08-08,Empress Of,8
+83,2015-07-28,Blackmill,3
+84,2015-07-21,Attlas,16
+85,2015-07-15,Tantrum Desire,7
+86,2015-07-06,Odesza,8
+87,2015-07-01,Spor,1
+88,2015-06-28,Spor,21
+89,2015-06-16,Amtrac,5
+90,2015-06-10,Flux Pavilion,21
+91,2015-06-05,Beastie Boys,8
+92,2015-05-26,The xx,3
+93,2015-05-22,Taso,12
+94,2015-05-13,Slow Magic,14
+95,2015-05-05,The Bloody Beetroots,11
+96,2015-04-28,Pendulum,28
+97,2015-04-22,Nero,11
+98,2015-04-15,Flume,14
+99,2015-04-10,Hot Chip,11
+100,2015-04-04,The M Machine,18
+101,2015-03-25,The Presets,21
+102,2015-03-19,Zedd,12
+103,2015-03-11,Yppah,22
+104,2015-03-03,The Presets,21
+105,2015-02-26,Stanton Warriors,21
+106,2015-02-18,Sub Focus,15
+107,2015-02-10,Metrik,12
+108,2015-02-05,RL Grime,10
+109,2015-01-30,Pryda,8
+110,2015-01-23,Skrillex,7
+111,2015-01-12,Brookes Brothers,9
+112,2015-01-06,SBTRKT,2
+113,2015-01-02,ASTR,9
+115,2014-12-21,Koa'uka,1
+116,2014-12-10,Alvin Risk,3
+117,2014-12-05,Pendulum,11
+118,2014-11-25,Electric Guest,3
+119,2014-11-19,RL Grime,23
+120,2014-11-11,alt-J,28
+121,2014-11-10,SOHN,20
+122,2014-10-27,Boards of Canada,34
+123,2014-10-21,alt-J,17
+124,2014-10-15,Skrillex,16
+125,2014-10-10,Pink Floyd,25
+126,2014-09-30,Chase & Status,26
+127,2014-09-25,Camo & Krooked,30
+128,2014-09-16,Octave Minds,62
+129,2014-09-09,Odesza,96
+130,2014-09-04,Feed Me,30
+131,2014-08-27,Bonobo,23
+132,2014-08-22,SOHN,11
+133,2014-08-15,SOHN,21
+183,2013-08-28,Morgan Page,49
+184,2013-08-23,Morgan Page,1
+185,2013-08-13,Morgan Page,2
+186,2013-08-11,Zedd,6
+187,2013-07-30,Sub Focus,4
+188,2013-07-29,Bassnectar,1
+189,2013-07-16,Mystery Jets,23
+190,2013-07-14,Everything Everything,25
+191,2013-07-05,Everything Everything,13
